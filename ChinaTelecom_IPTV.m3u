@@ -37,7 +37,7 @@ udp://@233.50.201.192:5140
 udp://@233.50.200.113:5140
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CCTV16.png" group-title="4K超高清",CCTV16奥林匹克4K
 udp://@233.50.201.63:5140
-#EXTINF:-1 tvg-id="CCTV4K超高清" tvg-name="CCTV4K超高清" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/CCTV4K.png" group-title="4K超高清",CCTV4K超高清
+#EXTINF:-1 tvg-id="CCTV4K超高清" tvg-name="CCTV4K超高清" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV4K.png" group-title="4K超高清",CCTV4K超高清
 udp://@233.50.201.226:5140
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/北京卫视4K.png" group-title="4K超高清",北京卫视4K
 udp://@233.50.202.100:5140
