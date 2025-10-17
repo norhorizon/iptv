@@ -37,7 +37,7 @@ udp://@233.50.201.192:5140
 udp://@233.50.200.113:5140
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/CCTV16.png" group-title="4K超高清",CCTV16奥林匹克4K
 udp://@233.50.201.63:5140
-#EXTINF:-1 tvg-id="CCTV4K超高清" tvg-name="CCTV4K超高清" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV4K.png" group-title="4K超高清",CCTV4K超高清
+#EXTINF:-1 tvg-id="CCTV4K超高清" tvg-name="CCTV4K超高清" tvg-logo="https://raw.githubusercontent.com/norhorizon/iptv/refs/heads/main/tv_logo/CCTV4K.png" group-title="4K超高清",CCTV4K超高清
 udp://@233.50.201.226:5140
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/北京卫视4K.png" group-title="4K超高清",北京卫视4K
 udp://@233.50.202.100:5140
@@ -45,17 +45,17 @@ udp://@233.50.202.100:5140
 udp://@233.50.202.101:5140
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/深圳卫视4K.png" group-title="4K超高清",深圳卫视4K
 udp://@233.50.202.102:5140
-#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/浙江卫视.png" group-title="4K超高清",浙江卫视4K
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/norhorizon/iptv/refs/heads/main/tv_logo/ZJWS4K.png" group-title="4K超高清",浙江卫视4K
 udp://@233.50.202.104:5140
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/东方卫视.png" group-title="4K超高清",东方卫视4K
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/norhorizon/iptv/refs/heads/main/tv_logo/DFWS4K.png" group-title="4K超高清",东方卫视4K
 udp://@233.50.202.105:5140
-#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/湖南卫视.png" group-title="4K超高清",湖南卫视4K
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/norhorizon/iptv/refs/heads/main/tv_logo/HNWS4K.png" group-title="4K超高清",湖南卫视4K
 udp://@233.50.202.106:5140
-#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/江苏卫视.png" group-title="4K超高清",江苏卫视4K
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/norhorizon/iptv/refs/heads/main/tv_logo/JSWS4K.png" group-title="4K超高清",江苏卫视4K
 udp://@233.50.202.107:5140
-#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/四川卫视.png" group-title="4K超高清",四川卫视4K
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/norhorizon/iptv/refs/heads/main/tv_logo/SCWS4K.png" group-title="4K超高清",四川卫视4K
 udp://@233.50.202.109:5140
-#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/山东卫视.png" group-title="4K超高清",山东卫视4K
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/norhorizon/iptv/refs/heads/main/tv_logo/SDWS4K.png" group-title="4K超高清",山东卫视4K
 udp://@233.50.202.108:5140
 #EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://myepg.org/Zhejiang_Telecom_IPTV/Logo/欢笑剧场4K.png" group-title="4K超高清",欢笑剧场4K
 udp://@233.50.200.52:5140
