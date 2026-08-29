@@ -39,7 +39,7 @@ http://192.168.3.20:5140/rtp/233.50.200.113:5140
 http://192.168.3.20:5140/rtp/233.50.202.35:5140
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://myepg.org/Logo/凤凰资讯.png" group-title="[直播]凤凰台" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",凤凰资讯
 http://192.168.3.20:5140/rtp/233.50.202.36:5140
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://cdn.jsdelivr.net/gh/norhorizon/iptv@main/tv_logo/4KCCTV16.png" group-title="[直播]4K超高清" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV16奥林匹克4K
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://cdn.jsdelivr.net/gh/norhorizon/iptv@main/tv_logo/CCTV164K.png" group-title="[直播]4K超高清" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV16奥林匹克4K
 http://192.168.3.20:5140/rtp/233.50.201.63:5140
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/norhorizon/iptv@main/tv_logo/HNWS4K.png" group-title="[直播]4K超高清" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",湖南卫视4K
 http://192.168.3.20:5140/rtp/233.50.202.106:5140
@@ -269,7 +269,7 @@ http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229307/705262
 http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229422/110077577.smil
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://myepg.org/Logo/凤凰资讯.png" group-title="[回看]凤凰台" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",凤凰资讯
 http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229423/110077527.smil
-#EXTINF:-1 tvg-id="CCTV16奥林匹克" tvg-name="CCTV16奥林匹克" tvg-logo="https://cdn.jsdelivr.net/gh/norhorizon/iptv@main/tv_logo/4KCCTV16.png" group-title="[回看]4K超高清" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV16奥林匹克4K
+#EXTINF:-1 tvg-id="CCTV16奥林匹克" tvg-name="CCTV16奥林匹克" tvg-logo="https://cdn.jsdelivr.net/gh/norhorizon/iptv@main/tv_logo/CCTV164K.png" group-title="[回看]4K超高清" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV16奥林匹克4K
 http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229331/74036079.smil
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/norhorizon/iptv@main/tv_logo/HNWS4K.png" group-title="[回看]4K超高清" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",湖南卫视4K
 http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229464/136083240.smil
