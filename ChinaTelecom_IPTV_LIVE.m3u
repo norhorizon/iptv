@@ -29,8 +29,8 @@ http://192.168.3.20:5140/rtp/233.50.201.123:5140?fcc=115.233.40.137:8027
 http://192.168.3.20:5140/rtp/233.50.201.246:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://myepg.org/Logo/CCTV14.png" group-title="央视",CCTV14少儿
 http://192.168.3.20:5140/rtp/233.50.201.124:5140?fcc=115.233.40.137:8027
-#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://myepg.org/Logo/CCTV15.png" group-title="央视",CCTV15音乐
-http://192.168.3.20:5140/rtp/233.50.202.40:5140?fcc=115.233.40.137:8027
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://myepg.org/Logo/CCTV15.png" group-title="[直播]央视",CCTV15音乐
+http://192.168.3.20:5140/rtp/233.50.200.133:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://myepg.org/Logo/CCTV16.png" group-title="央视",CCTV16奥林匹克
 http://192.168.3.20:5140/rtp/233.50.201.192:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://myepg.org/Logo/CCTV17.png" group-title="央视",CCTV17农业农村
