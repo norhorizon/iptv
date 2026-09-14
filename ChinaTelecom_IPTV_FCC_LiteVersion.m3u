@@ -22,7 +22,7 @@ http://192.168.3.20:5140/rtp/233.50.201.121:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://myepg.org/Logo/CCTV10.png" group-title="[直播]央视",CCTV10科教
 http://192.168.3.20:5140/rtp/233.50.201.122:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://myepg.org/Logo/CCTV11.png" group-title="[直播]央视",CCTV11戏曲
-http://192.168.3.20:5140/rtp/233.50.202.39:5140?fcc=115.233.40.137:8027
+http://192.168.3.20:5140/rtp/233.50.200.132:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://myepg.org/Logo/CCTV12.png" group-title="[直播]央视",CCTV12社会与法
 http://192.168.3.20:5140/rtp/233.50.201.123:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://myepg.org/Logo/CCTV13.png" group-title="[直播]央视",CCTV13新闻
@@ -30,7 +30,7 @@ http://192.168.3.20:5140/rtp/233.50.201.246:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://myepg.org/Logo/CCTV14.png" group-title="[直播]央视",CCTV14少儿
 http://192.168.3.20:5140/rtp/233.50.201.124:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://myepg.org/Logo/CCTV15.png" group-title="[直播]央视",CCTV15音乐
-http://192.168.3.20:5140/rtp/233.50.202.40:5140?fcc=115.233.40.137:8027
+http://192.168.3.20:5140/rtp/233.50.200.133:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://myepg.org/Logo/CCTV16.png" group-title="[直播]央视",CCTV16奥林匹克
 http://192.168.3.20:5140/rtp/233.50.201.192:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://myepg.org/Logo/CCTV17.png" group-title="[直播]央视",CCTV17农业农村
@@ -107,6 +107,10 @@ http://192.168.3.20:5140/rtp/233.50.202.32:5140?fcc=115.233.40.137:8027
 http://192.168.3.20:5140/rtp/233.50.201.159:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="温州新闻综合" tvg-name="温州新闻综合" tvg-logo="https://myepg.org/Logo/温州新闻综合.png" group-title="[直播]浙江",温州新闻综合
 http://192.168.3.20:5140/rtp/233.50.201.87:5140?fcc=115.233.40.137:8027
+#EXTINF:-1 tvg-id="温州经济科技" tvg-name="温州经济科技" tvg-logo="https://myepg.org/Logo/温州经济科技.png" group-title="浙江",温州经济科技
+http://192.168.3.20:5140/rtp/233.50.202.23:5140?fcc=115.233.40.137:8027
+#EXTINF:-1 tvg-id="温州都市生活" tvg-name="温州都市生活" tvg-logo="https://myepg.org/Logo/温州都市生活.png" group-title="浙江",温州都市生活
+http://192.168.3.20:5140/rtp/233.50.202.24:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="绍兴新闻综合" tvg-name="绍兴新闻综合" tvg-logo="https://myepg.org/Logo/绍兴新闻综合.png" group-title="[直播]浙江",绍兴新闻综合
 http://192.168.3.20:5140/rtp/233.50.201.156:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="湖州新闻综合" tvg-name="湖州新闻综合" tvg-logo="https://myepg.org/Logo/湖州新闻综合.png" group-title="[直播]浙江",湖州新闻综合
