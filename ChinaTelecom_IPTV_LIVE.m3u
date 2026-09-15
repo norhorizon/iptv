@@ -91,8 +91,8 @@ http://192.168.3.20:5140/rtp/233.50.201.175:5140?fcc=115.233.40.137:8027
 http://192.168.3.20:5140/rtp/233.50.201.176:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="杭州5青少" tvg-name="杭州5青少" tvg-logo="https://myepg.org/Logo/杭州青少.png" group-title="浙江",杭州5青少
 http://192.168.3.20:5140/rtp/233.50.201.177:5140?fcc=115.233.40.137:8027
-#EXTINF:-1 tvg-id="杭州导视" tvg-name="杭州导视" tvg-logo="https://myepg.org/Logo/杭州导视.png" group-title="浙江",杭州导视
-http://192.168.3.20:5140/rtp/233.50.201.182:5140?fcc=115.233.40.137:8027
+# #EXTINF:-1 tvg-id="杭州导视" tvg-name="杭州导视" tvg-logo="https://myepg.org/Logo/杭州导视.png" group-title="浙江",杭州导视
+# http://192.168.3.20:5140/rtp/233.50.201.182:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="宁波1新闻" tvg-name="宁波1新闻" tvg-logo="https://myepg.org/Logo/宁波新闻综合.png" group-title="浙江",宁波1新闻
 http://192.168.3.20:5140/rtp/233.50.201.168:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="宁波2经济" tvg-name="宁波2经济" tvg-logo="https://myepg.org/Logo/宁波经济生活.png" group-title="浙江",宁波2经济
@@ -178,7 +178,7 @@ http://192.168.3.20:5140/rtp/233.50.200.136:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://myepg.org/Logo/云南卫视.png" group-title="卫视",云南卫视
 http://192.168.3.20:5140/rtp/233.50.200.115:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://myepg.org/Logo/吉林卫视.png" group-title="卫视",吉林卫视
-http://192.168.3.20:5140/rtp/233.50.202.42:5140?fcc=115.233.40.137:8027
+http://192.168.3.20:5140/rtp/233.50.200.164:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://myepg.org/Logo/三沙卫视.png" group-title="卫视",三沙卫视
 http://192.168.3.20:5140/rtp/233.50.200.175:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://myepg.org/Logo/内蒙古卫视.png" group-title="卫视",内蒙古卫视
@@ -197,10 +197,12 @@ http://192.168.3.20:5140/rtp/233.50.201.51:5140?fcc=115.233.40.137:8027
 http://192.168.3.20:5140/rtp/233.50.202.45:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://myepg.org/Logo/新疆卫视.png" group-title="卫视",新疆卫视
 http://192.168.3.20:5140/rtp/233.50.202.46:5140?fcc=115.233.40.137:8027
+# #EXTINF:-1 tvg-id="延边卫视" tvg-name="延边卫视" tvg-logo="https://myepg.org/Logo/延边卫视.png" group-title="卫视",延边卫视
+# http://192.168.3.20:5140/rtp/233.50.200.184:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://myepg.org/Logo/CETV1.png" group-title="卫视",中国教育1台
 http://192.168.3.20:5140/rtp/233.50.200.169:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="中国教育4台" tvg-name="中国教育4台" tvg-logo="https://myepg.org/Logo/CETV4.png" group-title="卫视",中国教育4台
-http://192.168.3.20:5140/rtp/233.50.200.162:5140?fcc=115.233.40.137:8027
+http://192.168.3.20:5140/rtp/233.50.200.174:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://myepg.org/Logo/卡酷少儿.png" group-title="卫视",卡酷少儿
 http://192.168.3.20:5140/rtp/233.50.202.33:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://myepg.org/Logo/金鹰卡通.png" group-title="卫视",金鹰卡通
@@ -221,24 +223,22 @@ http://192.168.3.20:5140/rtp/233.50.201.185:5140?fcc=115.233.40.137:8027
 http://192.168.3.20:5140/rtp/233.50.201.186:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://myepg.org/Logo/生活时尚.png" group-title="其他",生活时尚
 http://192.168.3.20:5140/rtp/233.50.201.187:5140?fcc=115.233.40.137:8027
-#EXTINF:-1 tvg-id="茶频道" tvg-name="茶频道" tvg-logo="https://myepg.org/Logo/茶频道.png" group-title="其他",茶频道
-http://192.168.3.20:5140/rtp/233.50.201.188:5140?fcc=115.233.40.137:8027
+# #EXTINF:-1 tvg-id="茶频道" tvg-name="茶频道" tvg-logo="https://myepg.org/Logo/茶频道.png" group-title="其他",茶频道
+# http://192.168.3.20:5140/rtp/233.50.201.188:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://myepg.org/Logo/快乐垂钓.png" group-title="其他",快乐垂钓
 http://192.168.3.20:5140/rtp/233.50.201.109:5140?fcc=115.233.40.137:8027
-#EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://myepg.org/Logo/睛彩竞技.png" group-title="其他",睛彩竞技
-http://192.168.3.20:5140/rtp/233.50.202.26:5140?fcc=115.233.40.137:8027
-#EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://myepg.org/Logo/睛彩篮球.png" group-title="其他",睛彩篮球
-http://192.168.3.20:5140/rtp/233.50.202.27:5140?fcc=115.233.40.137:8027
-#EXTINF:-1 tvg-id="睛彩青少" tvg-name="睛彩青少" tvg-logo="https://myepg.org/Logo/睛彩青少.png" group-title="其他",睛彩青少
-http://192.168.3.20:5140/rtp/233.50.202.28:5140?fcc=115.233.40.137:8027
-#EXTINF:-1 tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" tvg-logo="https://myepg.org/Logo/睛彩广场舞.png" group-title="其他",睛彩广场舞
-http://192.168.3.20:5140/rtp/233.50.202.29:5140?fcc=115.233.40.137:8027
+# #EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://myepg.org/Logo/睛彩竞技.png" group-title="其他",睛彩竞技
+# http://192.168.3.20:5140/rtp/233.50.202.26:5140?fcc=115.233.40.137:8027
+# #EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://myepg.org/Logo/睛彩篮球.png" group-title="其他",睛彩篮球
+# http://192.168.3.20:5140/rtp/233.50.202.27:5140?fcc=115.233.40.137:8027
+# #EXTINF:-1 tvg-id="睛彩青少" tvg-name="睛彩青少" tvg-logo="https://myepg.org/Logo/睛彩青少.png" group-title="其他",睛彩青少
+# http://192.168.3.20:5140/rtp/233.50.202.28:5140?fcc=115.233.40.137:8027
+# #EXTINF:-1 tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" tvg-logo="https://myepg.org/Logo/睛彩广场舞.png" group-title="其他",睛彩广场舞
+# http://192.168.3.20:5140/rtp/233.50.202.29:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://myepg.org/Logo/东方财经.png" group-title="其他",东方财经
 http://192.168.3.20:5140/rtp/233.50.200.177:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://myepg.org/Logo/第一财经.png" group-title="其他",第一财经
 http://192.168.3.20:5140/rtp/233.50.200.125:5140?fcc=115.233.40.137:8027
-#EXTINF:-1 tvg-id="环球旅游" tvg-name="环球旅游" tvg-logo="https://myepg.org/Logo/环球旅游.png" group-title="其他",环球旅游
-http://192.168.3.20:5140/rtp/233.50.202.31:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="环球奇观" tvg-name="环球奇观" tvg-logo="https://myepg.org/Logo/环球奇观.png" group-title="其他",环球奇观
 http://192.168.3.20:5140/rtp/233.50.201.222:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="好享购物" tvg-name="好享购物" tvg-logo="https://myepg.org/Logo/生态环境.png" group-title="其他",好享购物
