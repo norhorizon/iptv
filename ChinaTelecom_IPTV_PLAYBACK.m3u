@@ -137,7 +137,7 @@ http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229461/134307
 http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229462/134307486.smil
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://myepg.org/Logo/新疆卫视.png" group-title="卫视",新疆卫视
 http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229459/134307257.smil
-#EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://myepg.org/Logo/卡酷少儿.png" group-title="卫视",卡酷少儿高清
+#EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://myepg.org/Logo/卡酷少儿.png" group-title="卫视",卡酷少儿
 http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229420/110036417.smil
 #EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://myepg.org/Logo/东方财经.png" group-title="其他",东方财经
 http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229471/139134633.smil
