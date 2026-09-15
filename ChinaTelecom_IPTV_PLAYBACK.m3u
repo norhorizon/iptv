@@ -139,7 +139,7 @@ http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229462/134307
 http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229459/134307257.smil
 #EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://myepg.org/Logo/卡酷少儿.png" group-title="卫视",卡酷少儿高清
 http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229420/110036417.smil
-#EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="" group-title="其他",东方财经
+#EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://myepg.org/Logo/东方财经.png" group-title="其他",东方财经
 http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229471/139134633.smil
 #EXTINF:-1 tvg-id="江苏国际" tvg-name="江苏国际" tvg-logo="https://myepg.org/Logo/江苏国际.png" group-title="其他",江苏国际
 http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229494/150343750.smil
@@ -159,7 +159,7 @@ http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229285/724868
 http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229315/72486946.smil
 #EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://myepg.org/Logo/生活时尚.png" group-title="其他",生活时尚
 http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229277/72486909.smil
-#EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://myepg.org/Logo/快乐垂钓.jpg" group-title="其他",快乐垂钓
+#EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://myepg.org/Logo/快乐垂钓.png" group-title="其他",快乐垂钓
 http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229491/148775761.smil
 #EXTINF:-1 tvg-id="环球奇观" tvg-name="环球奇观" tvg-logo="https://myepg.org/Logo/环球奇观.png" group-title="其他",环球奇观
 http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229483/152252603.smil
