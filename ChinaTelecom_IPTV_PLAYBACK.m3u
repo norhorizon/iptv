@@ -53,7 +53,7 @@ http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229455/131699
 http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229470/136083195.smil
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://cdn.jsdelivr.net/gh/norhorizon/iptv@main/tv_logo/SDWS4K.png" group-title="4K超高清",山东卫视4K
 http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229467/136083251.smil
-#EXTINF:-1 tvg-id="浙江钱江都市" tvg-name="浙江钱江都市" tvg-logo="https://myepg.org/Logo/钱江频道.png" group-title="浙江",浙江钱江都市高清
+#EXTINF:-1 tvg-id="钱江频道" tvg-name="钱江频道" tvg-logo="https://myepg.org/Logo/钱江频道.png" group-title="浙江",浙江钱江都市高清
 http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229041/10000100000000060000000004799139_0.smil
 #EXTINF:-1 tvg-id="浙江经济生活" tvg-name="浙江经济生活" tvg-logo="https://myepg.org/Logo/浙江经济生活.png" group-title="浙江",浙江经济生活高清
 http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229115/10000100000000060000000004799165_0.smil
@@ -103,7 +103,7 @@ http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221227978/100001
 http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221228067/10000100000000060000000001063212_0.smil
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://myepg.org/Logo/北京卫视.png" group-title="卫视",北京卫视
 http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221228080/10000100000000060000000001063209_0.smil
-#EXTINF:-1 tvg-id="纪实科教高清" tvg-name="纪实科教高清" tvg-logo="https://myepg.org/Logo/纪实科教.png" group-title="卫视",纪实科教高清
+#EXTINF:-1 tvg-id="纪实科教" tvg-name="纪实科教" tvg-logo="https://myepg.org/Logo/纪实科教.png" group-title="卫视",纪实科教高清
 http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229419/110036300.smil
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://myepg.org/Logo/四川卫视.png" group-title="卫视",四川卫视
 http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229046/10000100000000060000000004835838_0.smil
@@ -137,7 +137,7 @@ http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229461/134307
 http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229462/134307486.smil
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://myepg.org/Logo/新疆卫视.png" group-title="卫视",新疆卫视
 http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229459/134307257.smil
-#EXTINF:-1 tvg-id="卡酷少儿高清" tvg-name="卡酷少儿高清" tvg-logo="https://myepg.org/Logo/卡酷少儿.png" group-title="卫视",卡酷少儿高清
+#EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://myepg.org/Logo/卡酷少儿.png" group-title="卫视",卡酷少儿高清
 http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229420/110036417.smil
 #EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="" group-title="其他",东方财经
 http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229471/139134633.smil
