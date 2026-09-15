@@ -241,24 +241,20 @@ http://192.168.3.20:5140/rtp/233.50.200.177:5140?fcc=115.233.40.137:8027
 http://192.168.3.20:5140/rtp/233.50.200.125:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="环球奇观" tvg-name="环球奇观" tvg-logo="https://myepg.org/Logo/环球奇观.png" group-title="[直播]其他",环球奇观
 http://192.168.3.20:5140/rtp/233.50.201.222:5140?fcc=115.233.40.137:8027
-#EXTINF:-1 tvg-id="好享购物" tvg-name="好享购物" tvg-logo="https://myepg.org/Logo/生态环境.png" group-title="[直播]其他",好享购物
-http://192.168.3.20:5140/rtp/233.50.202.103:5140?fcc=115.233.40.137:8027
+# #EXTINF:-1 tvg-id="好享购物" tvg-name="好享购物" tvg-logo="https://myepg.org/Logo/生态环境.png" group-title="[直播]其他",好享购物
+# http://192.168.3.20:5140/rtp/233.50.202.103:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="江苏国际" tvg-name="江苏国际" tvg-logo="https://myepg.org/Logo/江苏国际.png" group-title="[直播]其他",江苏国际
 http://192.168.3.20:5140/rtp/233.50.202.31:5140?fcc=115.233.40.137:8027
-#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://myepg.org/Logo/CGTN.png" group-title="[回看]国际",CGTN
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://myepg.org/Logo/CGTN.png" group-title="[直播]国际",CGTN
 http://192.168.3.20:5140/rtp/233.50.201.126:5140?fcc=115.233.40.137:8027
-#EXTINF:-1 tvg-id="CGTN西语" tvg-name="CGTN西语" tvg-logo="https://myepg.org/Logo/CGTN西班牙语.png" group-title="[回看]国际",CGTN西班牙语
+#EXTINF:-1 tvg-id="CGTN西语" tvg-name="CGTN西语" tvg-logo="https://myepg.org/Logo/CGTN西班牙语.png" group-title="[直播]国际",CGTN西班牙语
 http://192.168.3.20:5140/rtp/233.50.201.36:5140?fcc=115.233.40.137:8027
-#EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://myepg.org/Logo/CGTN法语.png" group-title="[回看]国际",CGTN法语
+#EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://myepg.org/Logo/CGTN法语.png" group-title="[直播]国际",CGTN法语
 http://192.168.3.20:5140/rtp/233.50.201.37:5140?fcc=115.233.40.137:8027
-#EXTINF:-1 tvg-id="CGTN阿语" tvg-name="CGTN阿语" tvg-logo="https://myepg.org/Logo/CGTN阿拉伯语.png" group-title="[回看]国际",CGTN阿拉伯语
+#EXTINF:-1 tvg-id="CGTN阿语" tvg-name="CGTN阿语" tvg-logo="https://myepg.org/Logo/CGTN阿拉伯语.png" group-title="[直播]国际",CGTN阿拉伯语
 http://192.168.3.20:5140/rtp/233.50.201.38:5140?fcc=115.233.40.137:8027
-#EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://myepg.org/Logo/CGTN俄罗斯语.png" group-title="[回看]国际",CGTN俄罗斯语
+#EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://myepg.org/Logo/CGTN俄罗斯语.png" group-title="[直播]国际",CGTN俄罗斯语
 http://192.168.3.20:5140/rtp/233.50.201.39:5140?fcc=115.233.40.137:8027
-
-
-
-
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://myepg.org/Logo/CCTV1.png" group-title="[回看]央视",CCTV1综合
 http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221228078/10000100000000060000000002460690_0.smil
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://myepg.org/Logo/CCTV2.png" group-title="[回看]央视",CCTV2财经
