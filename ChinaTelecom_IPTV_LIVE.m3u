@@ -143,7 +143,7 @@ http://192.168.3.20:5140/rtp/233.50.201.105:5140?fcc=115.233.40.137:8027
 http://192.168.3.20:5140/rtp/233.50.201.106:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://myepg.org/Logo/北京卫视.png" group-title="卫视",北京卫视
 http://192.168.3.20:5140/rtp/233.50.201.107:5140?fcc=115.233.40.137:8027
-#EXTINF:-1 tvg-id="北京纪实" tvg-name="纪实科教" tvg-logo="https://myepg.org/Logo/纪实科教.png" group-title="卫视",纪实科教
+#EXTINF:-1 tvg-id="纪实科教" tvg-name="纪实科教" tvg-logo="https://myepg.org/Logo/纪实科教.png" group-title="卫视",纪实科教
 http://192.168.3.20:5140/rtp/233.50.202.34:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://myepg.org/Logo/四川卫视.png" group-title="卫视",四川卫视
 http://192.168.3.20:5140/rtp/233.50.201.139:5140?fcc=115.233.40.137:8027
