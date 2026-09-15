@@ -163,44 +163,44 @@ http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229277/724869
 http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229491/148775761.smil
 #EXTINF:-1 tvg-id="环球奇观" tvg-name="环球奇观" tvg-logo="https://myepg.org/Logo/环球奇观.png" group-title="其他",环球奇观
 http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229483/152252603.smil
-#EXTINF:-1 tvg-id="高清导视" tvg-name="高清导视" tvg-logo="" group-title="其他",高清导视
-http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221228038/10000100000000060000000001122729_0.smil
-#EXTINF:-1 tvg-id="导视频道" tvg-name="导视频道" tvg-logo="" group-title="其他",导视频道
-http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221228087/10000100000000060000000001432912_0.smil
-#EXTINF:-1 tvg-id="直播室4" tvg-name="直播室4" tvg-logo="" group-title="其他",直播室4
-http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229007/10000100000000060000000004308260_0.smil
-#EXTINF:-1 tvg-id="直播室5" tvg-name="直播室5" tvg-logo="" group-title="其他",直播室5
-http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229011/10000100000000060000000004308262_0.smil
-#EXTINF:-1 tvg-id="直播室6" tvg-name="直播室6" tvg-logo="" group-title="其他",直播室6
-http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229015/10000100000000060000000004308263_0.smil
-#EXTINF:-1 tvg-id="央广购物" tvg-name="央广购物" tvg-logo="" group-title="其他",央广购物
-http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229017/10000100000000060000000004414507_0.smil
-#EXTINF:-1 tvg-id="珠峰直播2" tvg-name="珠峰直播2" tvg-logo="" group-title="其他",珠峰直播2
-http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229068/10000100000000060000000005029495_0.smil
-#EXTINF:-1 tvg-id="4K测试1" tvg-name="4K测试1" tvg-logo="" group-title="其他",4K测试1
-http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229167/10000100000000060000000005029497_0.smil
-#EXTINF:-1 tvg-id="信号测试2" tvg-name="信号测试2" tvg-logo="" group-title="其他",信号测试2
-http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229177/49384090.smil
-#EXTINF:-1 tvg-id="信号测试3" tvg-name="信号测试3" tvg-logo="" group-title="其他",信号测试3
-http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229181/50701500.smil
-#EXTINF:-1 tvg-id="好易购1高清" tvg-name="好易购1高清" tvg-logo="" group-title="其他",好易购1高清
-http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229213/53485722.smil
-#EXTINF:-1 tvg-id="熊猫宝宝幼儿园" tvg-name="熊猫宝宝幼儿园" tvg-logo="" group-title="其他",熊猫宝宝幼儿园
-http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229232/67227295.smil
-#EXTINF:-1 tvg-id="大熊猫的一天" tvg-name="大熊猫的一天" tvg-logo="" group-title="其他",大熊猫的一天
-http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229269/67227366.smil
-#EXTINF:-1 tvg-id="爱看熊猫" tvg-name="爱看熊猫" tvg-logo="" group-title="其他",爱看熊猫
-http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229303/67227411.smil
-#EXTINF:-1 tvg-id="直播室3" tvg-name="直播室3" tvg-logo="" group-title="其他",直播室3
-http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229469/148085439.smil
-#EXTINF:-1 tvg-id="直播室2" tvg-name="直播室2" tvg-logo="" group-title="其他",直播室2
-http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229488/148085486.smil
-#EXTINF:-1 tvg-id="直播室7" tvg-name="直播室7" tvg-logo="" group-title="其他",直播室7
-http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229472/148085491.smil
-#EXTINF:-1 tvg-id="直播室1" tvg-name="直播室1" tvg-logo="" group-title="其他",直播室1
-http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229466/148085530.smil
-#EXTINF:-1 tvg-id="好享购" tvg-name="好享购" tvg-logo="" group-title="其他",好享购
-http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229475/148775850.smil
+# #EXTINF:-1 tvg-id="高清导视" tvg-name="高清导视" tvg-logo="" group-title="其他",高清导视
+# http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221228038/10000100000000060000000001122729_0.smil
+# #EXTINF:-1 tvg-id="导视频道" tvg-name="导视频道" tvg-logo="" group-title="其他",导视频道
+# http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221228087/10000100000000060000000001432912_0.smil
+# #EXTINF:-1 tvg-id="直播室4" tvg-name="直播室4" tvg-logo="" group-title="其他",直播室4
+# http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229007/10000100000000060000000004308260_0.smil
+# #EXTINF:-1 tvg-id="直播室5" tvg-name="直播室5" tvg-logo="" group-title="其他",直播室5
+# http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229011/10000100000000060000000004308262_0.smil
+# #EXTINF:-1 tvg-id="直播室6" tvg-name="直播室6" tvg-logo="" group-title="其他",直播室6
+# http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229015/10000100000000060000000004308263_0.smil
+# #EXTINF:-1 tvg-id="央广购物" tvg-name="央广购物" tvg-logo="" group-title="其他",央广购物
+# http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229017/10000100000000060000000004414507_0.smil
+# #EXTINF:-1 tvg-id="珠峰直播2" tvg-name="珠峰直播2" tvg-logo="" group-title="其他",珠峰直播2
+# http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229068/10000100000000060000000005029495_0.smil
+# #EXTINF:-1 tvg-id="4K测试1" tvg-name="4K测试1" tvg-logo="" group-title="其他",4K测试1
+# http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229167/10000100000000060000000005029497_0.smil
+# #EXTINF:-1 tvg-id="信号测试2" tvg-name="信号测试2" tvg-logo="" group-title="其他",信号测试2
+# http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229177/49384090.smil
+# #EXTINF:-1 tvg-id="信号测试3" tvg-name="信号测试3" tvg-logo="" group-title="其他",信号测试3
+# http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229181/50701500.smil
+# #EXTINF:-1 tvg-id="好易购1高清" tvg-name="好易购1高清" tvg-logo="" group-title="其他",好易购1高清
+# http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229213/53485722.smil
+# #EXTINF:-1 tvg-id="熊猫宝宝幼儿园" tvg-name="熊猫宝宝幼儿园" tvg-logo="" group-title="其他",熊猫宝宝幼儿园
+# http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229232/67227295.smil
+# #EXTINF:-1 tvg-id="大熊猫的一天" tvg-name="大熊猫的一天" tvg-logo="" group-title="其他",大熊猫的一天
+# http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229269/67227366.smil
+# #EXTINF:-1 tvg-id="爱看熊猫" tvg-name="爱看熊猫" tvg-logo="" group-title="其他",爱看熊猫
+# http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229303/67227411.smil
+# #EXTINF:-1 tvg-id="直播室3" tvg-name="直播室3" tvg-logo="" group-title="其他",直播室3
+# http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229469/148085439.smil
+# #EXTINF:-1 tvg-id="直播室2" tvg-name="直播室2" tvg-logo="" group-title="其他",直播室2
+# http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229488/148085486.smil
+# #EXTINF:-1 tvg-id="直播室7" tvg-name="直播室7" tvg-logo="" group-title="其他",直播室7
+# http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229472/148085491.smil
+# #EXTINF:-1 tvg-id="直播室1" tvg-name="直播室1" tvg-logo="" group-title="其他",直播室1
+# http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229466/148085530.smil
+# #EXTINF:-1 tvg-id="好享购" tvg-name="好享购" tvg-logo="" group-title="其他",好享购
+# http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229475/148775850.smil
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://myepg.org/Logo/CGTN.png" group-title="国际",CGTN
 http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221228108/10000100000000060000000002707382_0.smil
 #EXTINF:-1 tvg-id="CGTN西班牙语" tvg-name="CGTN西班牙语" tvg-logo="https://myepg.org/Logo/CGTN西班牙语.png" group-title="国际",CGTN西班牙语
