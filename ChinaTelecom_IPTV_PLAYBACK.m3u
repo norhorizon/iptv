@@ -103,7 +103,7 @@ http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221227978/100001
 http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221228067/10000100000000060000000001063212_0.smil
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://myepg.org/Logo/北京卫视.png" group-title="卫视",北京卫视
 http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221228080/10000100000000060000000001063209_0.smil
-#EXTINF:-1 tvg-id="纪实科教" tvg-name="纪实科教" tvg-logo="https://myepg.org/Logo/纪实科教.png" group-title="卫视",纪实科教高清
+#EXTINF:-1 tvg-id="纪实科教" tvg-name="纪实科教" tvg-logo="https://myepg.org/Logo/纪实科教.png" group-title="卫视",纪实科教
 http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229419/110036300.smil
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://myepg.org/Logo/四川卫视.png" group-title="卫视",四川卫视
 http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229046/10000100000000060000000004835838_0.smil
