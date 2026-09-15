@@ -245,7 +245,7 @@ http://192.168.3.20:5140/rtp/233.50.200.125:5140?fcc=115.233.40.137:8027
 http://192.168.3.20:5140/rtp/233.50.202.31:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="环球奇观" tvg-name="环球奇观" tvg-logo="https://myepg.org/Logo/环球奇观.png" group-title="其他",环球奇观
 http://192.168.3.20:5140/rtp/233.50.201.222:5140?fcc=115.233.40.137:8027
-#EXTINF:-1 tvg-id="生态环境" tvg-name="生态环境" tvg-logo="https://myepg.org/Logo/生态环境.png" group-title="其他",生态环境
+#EXTINF:-1 tvg-id="好享购物" tvg-name="好享购物" tvg-logo="https://myepg.org/Logo/生态环境.png" group-title="其他",好享购物
 http://192.168.3.20:5140/rtp/233.50.202.103:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="江苏国际" tvg-name="江苏国际" tvg-logo="https://myepg.org/Logo/江苏国际.png" group-title="其他",江苏国际
 http://192.168.3.20:5140/rtp/233.50.202.31:5140?fcc=115.233.40.137:8027
