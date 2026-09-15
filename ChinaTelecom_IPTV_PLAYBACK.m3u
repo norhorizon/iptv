@@ -53,29 +53,29 @@ http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229455/131699
 http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229470/136083195.smil
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://cdn.jsdelivr.net/gh/norhorizon/iptv@main/tv_logo/SDWS4K.png" group-title="4K超高清",山东卫视4K
 http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229467/136083251.smil
-#EXTINF:-1 tvg-id="钱江频道" tvg-name="钱江频道" tvg-logo="https://myepg.org/Logo/钱江频道.png" group-title="浙江",浙江钱江都市高清
+#EXTINF:-1 tvg-id="钱江频道" tvg-name="钱江频道" tvg-logo="https://myepg.org/Logo/钱江频道.png" group-title="浙江",浙江钱江都市
 http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229041/10000100000000060000000004799139_0.smil
-#EXTINF:-1 tvg-id="浙江经济生活" tvg-name="浙江经济生活" tvg-logo="https://myepg.org/Logo/浙江经济生活.png" group-title="浙江",浙江经济生活高清
+#EXTINF:-1 tvg-id="浙江经济生活" tvg-name="浙江经济生活" tvg-logo="https://myepg.org/Logo/浙江经济生活.png" group-title="浙江",浙江经济生活
 http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229115/10000100000000060000000004799165_0.smil
-#EXTINF:-1 tvg-id="浙江教科影视" tvg-name="浙江教科影视" tvg-logo="https://myepg.org/Logo/浙江教科影视.png" group-title="浙江",浙江教科影视高清
+#EXTINF:-1 tvg-id="浙江教科影视" tvg-name="浙江教科影视" tvg-logo="https://myepg.org/Logo/浙江教科影视.png" group-title="浙江",浙江教科影视
 http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229111/10000100000000060000000004799164_0.smil
-#EXTINF:-1 tvg-id="浙江民生休闲" tvg-name="浙江民生休闲" tvg-logo="https://myepg.org/Logo/浙江民生休闲.png" group-title="浙江",浙江民生休闲高清
+#EXTINF:-1 tvg-id="浙江民生休闲" tvg-name="浙江民生休闲" tvg-logo="https://myepg.org/Logo/浙江民生休闲.png" group-title="浙江",浙江民生休闲
 http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229045/10000100000000060000000004799162_0.smil
-#EXTINF:-1 tvg-id="浙江公共新闻" tvg-name="浙江公共新闻" tvg-logo="https://myepg.org/Logo/浙江公共新闻.png" group-title="浙江",浙江公共新闻高清
+#EXTINF:-1 tvg-id="浙江公共新闻" tvg-name="浙江公共新闻" tvg-logo="https://myepg.org/Logo/浙江公共新闻.png" group-title="浙江",浙江公共新闻
 http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229034/10000100000000060000000004799161_0.smil
-#EXTINF:-1 tvg-id="浙江少儿" tvg-name="浙江少儿" tvg-logo="https://myepg.org/Logo/浙江少儿.png" group-title="浙江",浙江少儿高清
+#EXTINF:-1 tvg-id="浙江少儿" tvg-name="浙江少儿" tvg-logo="https://myepg.org/Logo/浙江少儿.png" group-title="浙江",浙江少儿
 http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229030/10000100000000060000000004799160_0.smil
-#EXTINF:-1 tvg-id="之江纪录" tvg-name="之江纪录" tvg-logo="https://myepg.org/Logo/之江纪录.png" group-title="浙江",之江纪录高清
+#EXTINF:-1 tvg-id="之江纪录" tvg-name="之江纪录" tvg-logo="https://myepg.org/Logo/之江纪录.png" group-title="浙江",之江纪录
 http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229409/92749537.smil
-#EXTINF:-1 tvg-id="杭州1综合" tvg-name="杭州1综合" tvg-logo="https://myepg.org/Logo/杭州综合.png" group-title="浙江",杭州1综合高清
+#EXTINF:-1 tvg-id="杭州1综合" tvg-name="杭州1综合" tvg-logo="https://myepg.org/Logo/杭州综合.png" group-title="浙江",杭州1综合
 http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229189/52579603.smil
-#EXTINF:-1 tvg-id="杭州2明珠" tvg-name="杭州2明珠" tvg-logo="https://myepg.org/Logo/杭州明珠.png" group-title="浙江",杭州2明珠高清
+#EXTINF:-1 tvg-id="杭州2明珠" tvg-name="杭州2明珠" tvg-logo="https://myepg.org/Logo/杭州明珠.png" group-title="浙江",杭州2明珠
 http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229152/52579496.smil
-#EXTINF:-1 tvg-id="杭州3生活" tvg-name="杭州3生活" tvg-logo="https://myepg.org/Logo/杭州生活.png" group-title="浙江",杭州3生活高清
+#EXTINF:-1 tvg-id="杭州3生活" tvg-name="杭州3生活" tvg-logo="https://myepg.org/Logo/杭州生活.png" group-title="浙江",杭州3生活
 http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229156/52579500.smil
-#EXTINF:-1 tvg-id="杭州4影视" tvg-name="杭州4影视" tvg-logo="https://myepg.org/Logo/杭州影视.png" group-title="浙江",杭州4影视高清
+#EXTINF:-1 tvg-id="杭州4影视" tvg-name="杭州4影视" tvg-logo="https://myepg.org/Logo/杭州影视.png" group-title="浙江",杭州4影视
 http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229142/52579609.smil
-#EXTINF:-1 tvg-id="杭州5青少" tvg-name="杭州5青少" tvg-logo="https://myepg.org/Logo/杭州青少.png" group-title="浙江",杭州5青少高清
+#EXTINF:-1 tvg-id="杭州5青少" tvg-name="杭州5青少" tvg-logo="https://myepg.org/Logo/杭州青少.png" group-title="浙江",杭州5青少
 http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229217/57567111.smil
 #EXTINF:-1 tvg-id="宁波TV1" tvg-name="宁波TV1" tvg-logo="https://myepg.org/Logo/宁波新闻综合.png" group-title="浙江",宁波1新闻
 http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229199/10000100000000060000000005105223_0.smil
