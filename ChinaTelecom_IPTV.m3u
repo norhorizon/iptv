@@ -21,7 +21,7 @@ http://192.168.3.20:5140/rtp/233.50.201.199:5140?fcc=115.233.40.137:8027
 http://192.168.3.20:5140/rtp/233.50.201.121:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://myepg.org/Logo/CCTV10.png" group-title="央视" catchup="shift" catchup-source="http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221228131/10000100000000060000000002633383_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV10科教
 http://192.168.3.20:5140/rtp/233.50.201.122:5140?fcc=115.233.40.137:8027
-#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://myepg.org/Logo/CCTV11.png" group-title="央视" catchup="shift" catchup-source="http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221228078/10000100000000060000000002460690_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV11戏曲
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://myepg.org/Logo/CCTV11.png" group-title="央视" catchup="shift" catchup-source="http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221227777/10000100000000060000000000304164_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV11戏曲
 http://192.168.3.20:5140/rtp/233.50.200.132:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://myepg.org/Logo/CCTV12.png" group-title="央视" catchup="shift" catchup-source="http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221228130/10000100000000060000000002633382_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV12社会与法
 http://192.168.3.20:5140/rtp/233.50.201.123:5140?fcc=115.233.40.137:8027
@@ -29,11 +29,11 @@ http://192.168.3.20:5140/rtp/233.50.201.123:5140?fcc=115.233.40.137:8027
 http://192.168.3.20:5140/rtp/233.50.201.246:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://myepg.org/Logo/CCTV14.png" group-title="央视" catchup="shift" catchup-source="http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221228088/10000100000000060000000002633381_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV14少儿
 http://192.168.3.20:5140/rtp/233.50.201.124:5140?fcc=115.233.40.137:8027
-#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://myepg.org/Logo/CCTV15.png" group-title="央视" catchup="shift" catchup-source="http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221228078/10000100000000060000000002460690_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV15音乐
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://myepg.org/Logo/CCTV15.png" group-title="央视" catchup="shift" catchup-source="http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221227993/10000100000000060000000000794054_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV15音乐
 http://192.168.3.20:5140/rtp/233.50.200.133:5140?fcc=115.233.40.137:8027
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://myepg.org/Logo/CCTV16.png" group-title="央视" catchup="shift" catchup-source="http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229331/74036079.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV16奥林匹克
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://myepg.org/Logo/CCTV16.png" group-title="央视" catchup="shift" catchup-source="http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229307/70526246.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV16奥林匹克
 http://192.168.3.20:5140/rtp/233.50.201.192:5140?fcc=115.233.40.137:8027
-#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://myepg.org/Logo/CCTV17.png" group-title="央视" catchup="shift" catchup-source="http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221228078/10000100000000060000000002460690_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV17农业农村
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://myepg.org/Logo/CCTV17.png" group-title="央视" catchup="shift" catchup-source="http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229176/54864243.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV17农业农村
 http://192.168.3.20:5140/rtp/233.50.200.113:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://myepg.org/Logo/凤凰中文.png" group-title="凤凰台" catchup="shift" catchup-source="http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229422/110077577.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",凤凰中文
 http://192.168.3.20:5140/rtp/233.50.202.35:5140?fcc=115.233.40.137:8027
