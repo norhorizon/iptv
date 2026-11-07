@@ -4,211 +4,211 @@
 
 # ========== 香港4K ==========
 # 4K 備用1是用戶提供 php.jdshipin fct4 包裝網址所指向的直接入口；與4K主線同一 QD／indevs 上游，不視作獨立供應商容災。
-#EXTINF:-1 tvg-id="368366" tvg-name="翡翠台 4K" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png" group-title="香港4K",翡翠台 81（4K 主線）
+#EXTINF:-1 tvg-id="368366" tvg-name="翡翠台 4K" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png" group-title="香港",翡翠台 81（4K 主線）
 http://r.jdshipin.com/n90gt
 
-#EXTINF:-1 tvg-id="368366" tvg-name="翡翠台 4K（備用1・同上游）" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png" group-title="香港4K",翡翠台 81（4K 備用1・同上游直連）
+#EXTINF:-1 tvg-id="368366" tvg-name="翡翠台 4K（備用1・同上游）" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png" group-title="香港",翡翠台 81（4K 備用1・同上游直連）
 https://cdn.qd.je/163189/fct4k
 
 # ========== 香港TVB ==========
-#EXTINF:-1 tvg-id="368366" tvg-name="翡翠台（備用1）" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png" group-title="香港TVB",翡翠台 81（1080p 備用1）
+#EXTINF:-1 tvg-id="368366" tvg-name="翡翠台（備用1）" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png" group-title="香港",翡翠台 81（1080p 備用1）
 http://183.62.8.58:50085/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
 
-#EXTINF:-1 tvg-id="368366" tvg-name="翡翠台（備用2）" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png" group-title="香港TVB",翡翠台 81（1080p 備用2）
+#EXTINF:-1 tvg-id="368366" tvg-name="翡翠台（備用2）" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png" group-title="香港",翡翠台 81（1080p 備用2）
 http://120.234.44.98:18180/TV00000000000000000032@HHZT
 
-#EXTINF:-1 tvg-id="368366" tvg-name="翡翠台（備用3）" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png" group-title="香港TVB",翡翠台 81（1080p 備用3）
+#EXTINF:-1 tvg-id="368366" tvg-name="翡翠台（備用3）" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png" group-title="香港",翡翠台 81（1080p 備用3）
 http://120.196.235.42:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 
 # 1080p 備用4與兩條4K入口同屬 QD／163189 聚合商，不視作獨立供應商容災。
-#EXTINF:-1 tvg-id="368366" tvg-name="翡翠台（備用4・同供應商）" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png" group-title="香港TVB",翡翠台 81（1080p 備用4・同供應商）
+#EXTINF:-1 tvg-id="368366" tvg-name="翡翠台（備用4・同供應商）" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png" group-title="香港",翡翠台 81（1080p 備用4・同供應商）
 https://cdn.qd.je/163189.php?id=fct
 
 # TVB Plus 主線與備用1是不同編碼／傳送路徑，但未能證明內容上游獨立；五輪解碼較穩定的 H.264 線排主線，HEVC 線保留作備用。
-#EXTINF:-1 tvg-id="368361" tvg-name="TVB Plus" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722193451659796_71.png" group-title="香港TVB",TVB Plus 82（1080p H.264 主線）
+#EXTINF:-1 tvg-id="368361" tvg-name="TVB Plus" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722193451659796_71.png" group-title="香港",TVB Plus 82（1080p H.264 主線）
 https://cdn3.indevs.in/stream/tvb/tvbp/
 
-#EXTINF:-1 tvg-id="368361" tvg-name="TVB Plus（備用1）" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722193451659796_71.png" group-title="香港TVB",TVB Plus 82（1080p HEVC 備用1）
+#EXTINF:-1 tvg-id="368361" tvg-name="TVB Plus（備用1）" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722193451659796_71.png" group-title="香港",TVB Plus 82（1080p HEVC 備用1）
 https://10.fast.hidns.vip/163189/tvbp/
 
-#EXTINF:-1 tvg-id="368363" tvg-name="無綫新聞台" tvg-logo="https://epg.pw/media/images/channel/2025/01/09/large/20250109071243323682_78.png" group-title="香港TVB",無綫新聞台 83（1080p 主線）
+#EXTINF:-1 tvg-id="368363" tvg-name="無綫新聞台" tvg-logo="https://epg.pw/media/images/channel/2025/01/09/large/20250109071243323682_78.png" group-title="香港",無綫新聞台 83（1080p 主線）
 https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2625/__c/ott_I-NEWS_h264/__op/bks/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1793579874~exp=1796171874~acl=/__cl/slocalr2625/__c/ott_I-NEWS_h264/__op/bks/__f/*~hmac=84e57a55f3eaecaed7bfe42f15b4c0990b59f720430cc7bcb7770efcc69bf453&p=3000
 
 # 官方 720p 與主線共用 TVB／Akamai，但碼率較低；只作網絡擠塞備援，不視作獨立供應商容災。
-#EXTINF:-1 tvg-id="368363" tvg-name="無綫新聞台（官方低碼率備用）" tvg-logo="https://epg.pw/media/images/channel/2025/01/09/large/20250109071243323682_78.png" group-title="香港TVB",無綫新聞台 83（720p 官方低碼率備用1）
+#EXTINF:-1 tvg-id="368363" tvg-name="無綫新聞台（官方低碼率備用）" tvg-logo="https://epg.pw/media/images/channel/2025/01/09/large/20250109071243323682_78.png" group-title="香港",無綫新聞台 83（720p 官方低碼率備用1）
 https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2625/__c/ott_I-NEWS_h264/__op/bks/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1793579874~exp=1796171874~acl=/__cl/slocalr2625/__c/ott_I-NEWS_h264/__op/bks/__f/*~hmac=84e57a55f3eaecaed7bfe42f15b4c0990b59f720430cc7bcb7770efcc69bf453&p=3202
 
-#EXTINF:-1 tvg-id="368363" tvg-name="無綫新聞台（備用2）" tvg-logo="https://epg.pw/media/images/channel/2025/01/09/large/20250109071243323682_78.png" group-title="香港TVB",無綫新聞台 83（1080p 備用2）
+#EXTINF:-1 tvg-id="368363" tvg-name="無綫新聞台（備用2）" tvg-logo="https://epg.pw/media/images/channel/2025/01/09/large/20250109071243323682_78.png" group-title="香港",無綫新聞台 83（1080p 備用2）
 http://120.234.44.98:18180/TV00000000000000000034@HHZT
 
 # 備用3與備用4同屬 cdn6.cc.cd 供應商；備用4是另一條低碼率路徑，不視作獨立供應商容災。
-#EXTINF:-1 tvg-id="368363" tvg-name="無綫新聞台（備用3・同供應商）" tvg-logo="https://epg.pw/media/images/channel/2025/01/09/large/20250109071243323682_78.png" group-title="香港TVB",無綫新聞台 83（1080p 備用3・同供應商）
+#EXTINF:-1 tvg-id="368363" tvg-name="無綫新聞台（備用3・同供應商）" tvg-logo="https://epg.pw/media/images/channel/2025/01/09/large/20250109071243323682_78.png" group-title="香港",無綫新聞台 83（1080p 備用3・同供應商）
 https://cdn.qd.je/163189.php?id=wxxw
 
-#EXTINF:-1 tvg-id="368363" tvg-name="無綫新聞台（備用4・720p・同供應商）" tvg-logo="https://epg.pw/media/images/channel/2025/01/09/large/20250109071243323682_78.png" group-title="香港TVB",無綫新聞台 83（720p 備用4・同供應商）
+#EXTINF:-1 tvg-id="368363" tvg-name="無綫新聞台（備用4・720p・同供應商）" tvg-logo="https://epg.pw/media/images/channel/2025/01/09/large/20250109071243323682_78.png" group-title="香港",無綫新聞台 83（720p 備用4・同供應商）
 https://cdn.qd.je/163189/wxxwt
 
-#EXTINF:-1 tvg-id="368369" tvg-name="明珠台" tvg-logo="https://epg.pw/media/images/channel/2024/12/26/large/20241226141312380293_76.png" group-title="香港TVB",明珠台 84（1080p）
+#EXTINF:-1 tvg-id="368369" tvg-name="明珠台" tvg-logo="https://epg.pw/media/images/channel/2024/12/26/large/20241226141312380293_76.png" group-title="香港",明珠台 84（1080p）
 http://183.62.8.58:50085/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
 
-#EXTINF:-1 tvg-id="368369" tvg-name="明珠台（備用1）" tvg-logo="https://epg.pw/media/images/channel/2024/12/26/large/20241226141312380293_76.png" group-title="香港TVB",明珠台 84（1080p 備用1）
+#EXTINF:-1 tvg-id="368369" tvg-name="明珠台（備用1）" tvg-logo="https://epg.pw/media/images/channel/2024/12/26/large/20241226141312380293_76.png" group-title="香港",明珠台 84（1080p 備用1）
 https://cdn.qd.je/163189.php?id=mzt
 
-#EXTINF:-1 tvg-id="368369" tvg-name="明珠台（備用2）" tvg-logo="https://epg.pw/media/images/channel/2024/12/26/large/20241226141312380293_76.png" group-title="香港TVB",明珠台 84（1080p 備用2）
+#EXTINF:-1 tvg-id="368369" tvg-name="明珠台（備用2）" tvg-logo="https://epg.pw/media/images/channel/2024/12/26/large/20241226141312380293_76.png" group-title="香港",明珠台 84（1080p 備用2）
 http://rihou.cc:555/tv/[Pd]无线明珠
 
-#EXTINF:-1 tvg-id="368369" tvg-name="明珠台（備用3）" tvg-logo="https://epg.pw/media/images/channel/2024/12/26/large/20241226141312380293_76.png" group-title="香港TVB",明珠台 84（1080p 備用3）
+#EXTINF:-1 tvg-id="368369" tvg-name="明珠台（備用3）" tvg-logo="https://epg.pw/media/images/channel/2024/12/26/large/20241226141312380293_76.png" group-title="香港",明珠台 84（1080p 備用3）
 http://120.234.44.98:18180/TV00000000000000000035@HHZT
 
-#EXTINF:-1 tvg-id="3493" tvg-name="TVB星河" tvg-logo="https://epg.pw/media/images/channel/2018/03/13/large/20180313203118850563_68.jpg" group-title="香港TVB",TVB星河（1080p 主線）
+#EXTINF:-1 tvg-id="3493" tvg-name="TVB星河" tvg-logo="https://epg.pw/media/images/channel/2018/03/13/large/20180313203118850563_68.jpg" group-title="香港",TVB星河（1080p 主線）
 https://stream1.freetv.fun/e1f2e0d3c534c1d7b467fa6bf2a647527e6841c6c2d76b14b29e22682fba93f1.ctv
 
-#EXTINF:-1 tvg-id="3493" tvg-name="TVB星河（備用1）" tvg-logo="https://epg.pw/media/images/channel/2018/03/13/large/20180313203118850563_68.jpg" group-title="香港TVB",TVB星河（1080p 備用1）
+#EXTINF:-1 tvg-id="3493" tvg-name="TVB星河（備用1）" tvg-logo="https://epg.pw/media/images/channel/2018/03/13/large/20180313203118850563_68.jpg" group-title="香港",TVB星河（1080p 備用1）
 https://t.freetv.fun/live/tvbxing-he.m3u8
 
 # ========== 香港其他 ==========
-#EXTINF:-1 tvg-name="Now 新聞台" tvg-logo="https://epg.pw/media/images/channel/2024/04/17/large/20240417171909234814_40.png" group-title="香港其他",Now 新聞台 332（1080p）
+#EXTINF:-1 tvg-name="Now 新聞台" tvg-logo="https://epg.pw/media/images/channel/2024/04/17/large/20240417171909234814_40.png" group-title="香港",Now 新聞台 332（1080p）
 #EXTVLCOPT:http-referrer=https://news.now.com/home/live
 https://stream1.freetv.fun/60ac4015a508533f429e33b5d560c3f5b07a3f99a362214308f832a4f5bc138b.m3u8
 
-#EXTINF:-1 tvg-name="Now 新聞台（備用1）" tvg-logo="https://epg.pw/media/images/channel/2024/04/17/large/20240417171909234814_40.png" group-title="香港其他",Now 新聞台 332（1080p 備用1）
+#EXTINF:-1 tvg-name="Now 新聞台（備用1）" tvg-logo="https://epg.pw/media/images/channel/2024/04/17/large/20240417171909234814_40.png" group-title="香港",Now 新聞台 332（1080p 備用1）
 https://cdn.qd.je/163189.php?id=now
 
-#EXTINF:-1 tvg-name="Now 新聞台（備用2）" tvg-logo="https://epg.pw/media/images/channel/2024/04/17/large/20240417171909234814_40.png" group-title="香港其他",Now 新聞台 332（1080p 備用2）
+#EXTINF:-1 tvg-name="Now 新聞台（備用2）" tvg-logo="https://epg.pw/media/images/channel/2024/04/17/large/20240417171909234814_40.png" group-title="香港",Now 新聞台 332（1080p 備用2）
 https://stream1.freetv.fun/2e7d4aaaacf82963b4e0d0f1fd04b6f4154066da3bd649d8b87f6cf224b99ee8.ctv
 
-#EXTINF:-1 tvg-name="Now 新聞台（備用3）" tvg-logo="https://epg.pw/media/images/channel/2024/04/17/large/20240417171909234814_40.png" group-title="香港其他",Now 新聞台 332（1080p 備用3）
+#EXTINF:-1 tvg-name="Now 新聞台（備用3）" tvg-logo="https://epg.pw/media/images/channel/2024/04/17/large/20240417171909234814_40.png" group-title="香港",Now 新聞台 332（1080p 備用3）
 http://rihou.cc:555/tv/[Mt]Now新闻
 
-#EXTINF:-1 tvg-name="Now 新聞台（備用4）" tvg-logo="https://epg.pw/media/images/channel/2024/04/17/large/20240417171909234814_40.png" group-title="香港其他",Now 新聞台 332（1080p 備用4）
+#EXTINF:-1 tvg-name="Now 新聞台（備用4）" tvg-logo="https://epg.pw/media/images/channel/2024/04/17/large/20240417171909234814_40.png" group-title="香港",Now 新聞台 332（1080p 備用4）
 http://rihou.cc:555/tv/[Cx]Now新闻
 
-#EXTINF:-1 tvg-id="ViuTV.hk" tvg-name="ViuTV" tvg-logo="https://raw.githubusercontent.com/4yt1k/x86/refs/heads/main/logo/viutv.png" group-title="香港其他",ViuTV 99（1080p）
+#EXTINF:-1 tvg-id="ViuTV.hk" tvg-name="ViuTV" tvg-logo="https://raw.githubusercontent.com/4yt1k/x86/refs/heads/main/logo/viutv.png" group-title="香港",ViuTV 99（1080p）
 http://120.234.44.98:18180/TV00000000000000000037@HHZT
 
-#EXTINF:-1 tvg-id="ViuTV.hk" tvg-name="ViuTV（備用1）" tvg-logo="https://raw.githubusercontent.com/4yt1k/x86/refs/heads/main/logo/viutv.png" group-title="香港其他",ViuTV 99（1080p 備用1）
+#EXTINF:-1 tvg-id="ViuTV.hk" tvg-name="ViuTV（備用1）" tvg-logo="https://raw.githubusercontent.com/4yt1k/x86/refs/heads/main/logo/viutv.png" group-title="香港",ViuTV 99（1080p 備用1）
 http://110.235.82.60:8001/bysid/99
 
-#EXTINF:-1 tvg-id="HOYTV.hk" tvg-name="HOY 77" tvg-logo="https://i.imgur.com/NfVZPTT.png" group-title="香港其他",HOY 77（官方 1080p/720p 自適應・香港直連）
+#EXTINF:-1 tvg-id="HOYTV.hk" tvg-name="HOY 77" tvg-logo="https://i.imgur.com/NfVZPTT.png" group-title="香港",HOY 77（官方 1080p/720p 自適應・香港直連）
 https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
 
-#EXTINF:-1 tvg-id="HOYTV.hk" tvg-name="HOY 77（備用1）" tvg-logo="https://i.imgur.com/NfVZPTT.png" group-title="香港其他",HOY 77（1080p 備用1・QD fast）
+#EXTINF:-1 tvg-id="HOYTV.hk" tvg-name="HOY 77（備用1）" tvg-logo="https://i.imgur.com/NfVZPTT.png" group-title="香港",HOY 77（1080p 備用1・QD fast）
 https://cdn.qd.je/163189/hoy2
 
-#EXTINF:-1 tvg-id="HongKongInternationalBusinessChannel.hk" tvg-name="HOY 76" tvg-logo="https://i.imgur.com/jaIdkbz.png" group-title="香港其他",HOY 76（官方 1080p/720p 自適應・香港直連）
+#EXTINF:-1 tvg-id="HongKongInternationalBusinessChannel.hk" tvg-name="HOY 76" tvg-logo="https://i.imgur.com/jaIdkbz.png" group-title="香港",HOY 76（官方 1080p/720p 自適應・香港直連）
 https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
 
-#EXTINF:-1 tvg-id="HongKongInternationalBusinessChannel.hk" tvg-name="HOY 76（備用1）" tvg-logo="https://i.imgur.com/jaIdkbz.png" group-title="香港其他",HOY 76（1080p 備用1・QD）
+#EXTINF:-1 tvg-id="HongKongInternationalBusinessChannel.hk" tvg-name="HOY 76（備用1）" tvg-logo="https://i.imgur.com/jaIdkbz.png" group-title="香港",HOY 76（1080p 備用1・QD）
 https://cdn.qd.je/163189.php?id=hoy76
 
-#EXTINF:-1 tvg-id="HOYInfotainment.hk" tvg-name="HOY 78" tvg-logo="https://i.imgur.com/LNokYLQ.png" group-title="香港其他",HOY 78（官方 1080p/720p 自適應・香港直連）
+#EXTINF:-1 tvg-id="HOYInfotainment.hk" tvg-name="HOY 78" tvg-logo="https://i.imgur.com/LNokYLQ.png" group-title="香港",HOY 78（官方 1080p/720p 自適應・香港直連）
 https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
 
-#EXTINF:-1 tvg-id="HOYInfotainment.hk" tvg-name="HOY 78（備用1）" tvg-logo="https://i.imgur.com/LNokYLQ.png" group-title="香港其他",HOY 78（1080p 備用1・QD）
+#EXTINF:-1 tvg-id="HOYInfotainment.hk" tvg-name="HOY 78（備用1）" tvg-logo="https://i.imgur.com/LNokYLQ.png" group-title="香港",HOY 78（1080p 備用1・QD）
 https://cdn.qd.je/163189.php?id=hoy78
 
-#EXTINF:-1 tvg-id="RTHKTV31.hk" tvg-name="港台電視31" tvg-logo="https://i.imgur.com/kf818kM.png" group-title="香港其他",港台電視31（1080p）
+#EXTINF:-1 tvg-id="RTHKTV31.hk" tvg-name="港台電視31" tvg-logo="https://i.imgur.com/kf818kM.png" group-title="香港",港台電視31（1080p）
 https://cdn.qd.je/163189.php?id=rthk31
 
-#EXTINF:-1 tvg-id="RTHKTV32.hk" tvg-name="港台電視32" tvg-logo="https://i.imgur.com/MXLuUoU.png" group-title="香港其他",港台電視32（1080p）
+#EXTINF:-1 tvg-id="RTHKTV32.hk" tvg-name="港台電視32" tvg-logo="https://i.imgur.com/MXLuUoU.png" group-title="香港",港台電視32（1080p）
 https://stream1.freetv.fun/rthk32-1.ctv
 
-#EXTINF:-1 tvg-id="RTHKTV32.hk" tvg-name="港台電視32（備用1）" tvg-logo="https://i.imgur.com/MXLuUoU.png" group-title="香港其他",港台電視32（1080p 備用1）
+#EXTINF:-1 tvg-id="RTHKTV32.hk" tvg-name="港台電視32（備用1）" tvg-logo="https://i.imgur.com/MXLuUoU.png" group-title="香港",港台電視32（1080p 備用1）
 https://cdn.qd.je/163189.php?id=rthk32
 
-#EXTINF:-1 tvg-id="RTHKTV33.hk" tvg-name="港台電視33" tvg-logo="https://i.imgur.com/2MProun.png" group-title="香港其他",港台電視33（1080p）
+#EXTINF:-1 tvg-id="RTHKTV33.hk" tvg-name="港台電視33" tvg-logo="https://i.imgur.com/2MProun.png" group-title="香港",港台電視33（1080p）
 https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/master.m3u8
 
-#EXTINF:-1 tvg-id="RTHKTV34.hk" tvg-name="港台電視34" tvg-logo="https://i.imgur.com/Kq5A6Qn.png" group-title="香港其他",港台電視34（1080p）
+#EXTINF:-1 tvg-id="RTHKTV34.hk" tvg-name="港台電視34" tvg-logo="https://i.imgur.com/Kq5A6Qn.png" group-title="香港",港台電視34（1080p）
 https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/master.m3u8
 
-#EXTINF:-1 tvg-id="RTHKTV35.hk" tvg-name="港台電視35" tvg-logo="https://i.imgur.com/FQmNKDS.png" group-title="香港其他",港台電視35（1080p）
+#EXTINF:-1 tvg-id="RTHKTV35.hk" tvg-name="港台電視35" tvg-logo="https://i.imgur.com/FQmNKDS.png" group-title="香港",港台電視35（1080p）
 https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/master.m3u8
 
-#EXTINF:-1 tvg-id="368338" tvg-name="鳳凰衛視中文台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix1.png" group-title="香港其他",鳳凰衛視中文台（1080p 主線）
+#EXTINF:-1 tvg-id="368338" tvg-name="鳳凰衛視中文台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix1.png" group-title="香港",鳳凰衛視中文台（1080p 主線）
 http://rihou.cc:555/tv/[Pd]凤凰中文
 
-#EXTINF:-1 tvg-id="368338" tvg-name="鳳凰衛視中文台（備用1）" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix1.png" group-title="香港其他",鳳凰衛視中文台（1080p 備用1）
+#EXTINF:-1 tvg-id="368338" tvg-name="鳳凰衛視中文台（備用1）" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix1.png" group-title="香港",鳳凰衛視中文台（1080p 備用1）
 http://221.7.175.154:8445/tsfile/live/1020_1.m3u8
 
-#EXTINF:-1 tvg-id="368338" tvg-name="鳳凰衛視中文台（備用2）" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix1.png" group-title="香港其他",鳳凰衛視中文台（1080p 備用2）
+#EXTINF:-1 tvg-id="368338" tvg-name="鳳凰衛視中文台（備用2）" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix1.png" group-title="香港",鳳凰衛視中文台（1080p 備用2）
 https://cdn.qd.je/163189.php?id=fhzw
 
-#EXTINF:-1 tvg-id="368338" tvg-name="鳳凰衛視中文台（備用3）" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix1.png" group-title="香港其他",鳳凰衛視中文台（1080p 備用3）
+#EXTINF:-1 tvg-id="368338" tvg-name="鳳凰衛視中文台（備用3）" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix1.png" group-title="香港",鳳凰衛視中文台（1080p 備用3）
 http://223.76.189.164:4022/udp/239.69.2.20:11274
 
-#EXTINF:-1 tvg-name="鳳凰衛視資訊台" tvg-logo="https://i.imgur.com/mt4h3VO.png" group-title="香港其他",鳳凰衛視資訊台（1080p 主線）
+#EXTINF:-1 tvg-name="鳳凰衛視資訊台" tvg-logo="https://i.imgur.com/mt4h3VO.png" group-title="香港",鳳凰衛視資訊台（1080p 主線）
 https://stream1.freetv.fun/fe31eaf5bb86cd05e17cde36410d5291e290a6380274cb40313ccf2da19cf6cd.ctv
 
-#EXTINF:-1 tvg-name="鳳凰衛視資訊台（備用1）" tvg-logo="https://i.imgur.com/mt4h3VO.png" group-title="香港其他",鳳凰衛視資訊台（1080p 備用1）
+#EXTINF:-1 tvg-name="鳳凰衛視資訊台（備用1）" tvg-logo="https://i.imgur.com/mt4h3VO.png" group-title="香港",鳳凰衛視資訊台（1080p 備用1）
 http://rihou.cc:555/tv/[Pd]凤凰资讯
 
-#EXTINF:-1 tvg-name="鳳凰衛視資訊台（備用2）" tvg-logo="https://i.imgur.com/mt4h3VO.png" group-title="香港其他",鳳凰衛視資訊台（1080p 備用2）
+#EXTINF:-1 tvg-name="鳳凰衛視資訊台（備用2）" tvg-logo="https://i.imgur.com/mt4h3VO.png" group-title="香港",鳳凰衛視資訊台（1080p 備用2）
 http://221.7.175.154:8445/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
 
-#EXTINF:-1 tvg-name="鳳凰衛視資訊台（備用3）" tvg-logo="https://i.imgur.com/mt4h3VO.png" group-title="香港其他",鳳凰衛視資訊台（1080p 備用3）
+#EXTINF:-1 tvg-name="鳳凰衛視資訊台（備用3）" tvg-logo="https://i.imgur.com/mt4h3VO.png" group-title="香港",鳳凰衛視資訊台（1080p 備用3）
 https://cdn.qd.je/163189.php?id=fhzx
 
-#EXTINF:-1 tvg-name="鳳凰衛視資訊台（備用4）" tvg-logo="https://i.imgur.com/mt4h3VO.png" group-title="香港其他",鳳凰衛視資訊台（1080p 備用4）
+#EXTINF:-1 tvg-name="鳳凰衛視資訊台（備用4）" tvg-logo="https://i.imgur.com/mt4h3VO.png" group-title="香港",鳳凰衛視資訊台（1080p 備用4）
 http://223.76.189.164:4022/udp/239.69.2.19:11268
 
-#EXTINF:-1 tvg-name="鳳凰衛視香港台" tvg-logo="https://i.imgur.com/26G70yY.png" group-title="香港其他",鳳凰衛視香港台（1080p）
+#EXTINF:-1 tvg-name="鳳凰衛視香港台" tvg-logo="https://i.imgur.com/26G70yY.png" group-title="香港",鳳凰衛視香港台（1080p）
 http://rihou.cc:555/tv/[Pd]凤凰香港
 
-#EXTINF:-1 tvg-name="鳳凰衛視香港台（備用1）" tvg-logo="https://i.imgur.com/26G70yY.png" group-title="香港其他",鳳凰衛視香港台（1080p 備用1）
+#EXTINF:-1 tvg-name="鳳凰衛視香港台（備用1）" tvg-logo="https://i.imgur.com/26G70yY.png" group-title="香港",鳳凰衛視香港台（1080p 備用1）
 https://cdn.qd.je/163189.php?id=fhhk
 
 # ========== 台湾新闻 ==========
-#EXTINF:-1 tvg-id="TVBSNews.tw@SD" tvg-name="TVBS News" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" tvg-region="亞洲" tvg-country="TW" tvg-language="zh" group-title="台湾新闻",TVBS新聞台（第三方・1080p・HTTP）
+#EXTINF:-1 tvg-id="TVBSNews.tw@SD" tvg-name="TVBS News" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" tvg-region="亞洲" tvg-country="TW" tvg-language="zh" group-title="台湾",TVBS新聞台（第三方・1080p・HTTP）
 http://106.107.242.201:50007/media-live072/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
 
-#EXTINF:-1 tvg-id="TVBSNews.tw@SD" tvg-name="TVBS News" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" tvg-region="亞洲" tvg-country="TW" tvg-language="zh" group-title="台湾新闻",TVBS新聞台（第三方後備・720p・HTTP）
+#EXTINF:-1 tvg-id="TVBSNews.tw@SD" tvg-name="TVBS News" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVBS1.png" tvg-region="亞洲" tvg-country="TW" tvg-language="zh" group-title="台湾",TVBS新聞台（第三方後備・720p・HTTP）
 http://61.221.215.25:8800/hls/9/index.m3u8
 
-#EXTINF:-1 tvg-id="SETiNews.tw@SD" tvg-name="SET iNEWS" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/SET3.png" tvg-region="亞洲" tvg-country="TW" tvg-language="zh" group-title="台湾新闻",三立 iNEWS（第三方・1080p・HTTP）
+#EXTINF:-1 tvg-id="SETiNews.tw@SD" tvg-name="SET iNEWS" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/SET3.png" tvg-region="亞洲" tvg-country="TW" tvg-language="zh" group-title="台湾",三立 iNEWS（第三方・1080p・HTTP）
 http://106.107.242.201:50007/4gtv-live089/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
 
-#EXTINF:-1 tvg-id="SETiNews.tw@SD" tvg-name="SET iNEWS" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/SET3.png" tvg-region="亞洲" tvg-country="TW" tvg-language="zh" group-title="台湾新闻",三立 iNEWS（第三方後備・1080p・HTTP）
+#EXTINF:-1 tvg-id="SETiNews.tw@SD" tvg-name="SET iNEWS" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/SET3.png" tvg-region="亞洲" tvg-country="TW" tvg-language="zh" group-title="台湾",三立 iNEWS（第三方後備・1080p・HTTP）
 http://nmk.ioapk.com:5050/4gtv-live089/index.m3u8?proxy=true
 
-#EXTINF:-1 tvg-id="SETNews.tw@SD" tvg-name="SET News" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/SET2.png" tvg-region="亞洲" tvg-country="TW" tvg-language="zh" group-title="台湾新闻",三立新聞台（第三方・1080p・HTTP）
+#EXTINF:-1 tvg-id="SETNews.tw@SD" tvg-name="SET News" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/SET2.png" tvg-region="亞洲" tvg-country="TW" tvg-language="zh" group-title="台湾",三立新聞台（第三方・1080p・HTTP）
 http://125.227.210.55:3022/VideoInput/play.ts
 
-#EXTINF:-1 tvg-id="FTVNews.tw@SD" tvg-name="FTV News" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV1.png" tvg-region="亞洲" tvg-country="TW" tvg-language="zh" group-title="台湾新闻",民視新聞台（第三方・1080p・HTTP）
+#EXTINF:-1 tvg-id="FTVNews.tw@SD" tvg-name="FTV News" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV1.png" tvg-region="亞洲" tvg-country="TW" tvg-language="zh" group-title="台湾",民視新聞台（第三方・1080p・HTTP）
 http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
 
-#EXTINF:-1 tvg-id="FTVNews.tw@SD" tvg-name="FTV News" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV1.png" tvg-region="亞洲" tvg-country="TW" tvg-language="zh" group-title="台湾新闻",民視新聞台（第三方後備・1080p・HTTP）
+#EXTINF:-1 tvg-id="FTVNews.tw@SD" tvg-name="FTV News" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV1.png" tvg-region="亞洲" tvg-country="TW" tvg-language="zh" group-title="台湾",民視新聞台（第三方後備・1080p・HTTP）
 http://106.107.242.201:50007/4gtv-live413/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
 
-#EXTINF:-1 tvg-id="EBCNews.tw@SD" tvg-name="EBC News" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC6.png" tvg-region="亞洲" tvg-country="TW" tvg-language="zh" group-title="台湾新闻",東森新聞台（第三方・1080p・HTTP）
+#EXTINF:-1 tvg-id="EBCNews.tw@SD" tvg-name="EBC News" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC6.png" tvg-region="亞洲" tvg-country="TW" tvg-language="zh" group-title="台湾",東森新聞台（第三方・1080p・HTTP）
 http://106.107.242.201:50007/4gtv-live114/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
 
-#EXTINF:-1 tvg-id="EBCFinancialNews.tw@SD" tvg-name="EBC Financial News" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC7.png" tvg-region="亞洲" tvg-country="TW" tvg-language="zh" group-title="台湾新闻",東森財經新聞台（第三方・1080p・HTTP）
+#EXTINF:-1 tvg-id="EBCFinancialNews.tw@SD" tvg-name="EBC Financial News" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC7.png" tvg-region="亞洲" tvg-country="TW" tvg-language="zh" group-title="台湾",東森財經新聞台（第三方・1080p・HTTP）
 http://106.107.242.201:50007/4gtv-live019/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
 
-#EXTINF:-1 tvg-id="EBCFinancialNews.tw@SD" tvg-name="EBC Financial News" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC7.png" tvg-region="亞洲" tvg-country="TW" tvg-language="zh" group-title="台湾新闻",東森財經新聞台（第三方後備・1080p・HTTP）
+#EXTINF:-1 tvg-id="EBCFinancialNews.tw@SD" tvg-name="EBC Financial News" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC7.png" tvg-region="亞洲" tvg-country="TW" tvg-language="zh" group-title="台湾",東森財經新聞台（第三方後備・1080p・HTTP）
 http://106.107.242.201:50007/4gtv-4gtv153/index.m3u8?token=VReyM0RgfyFP0rK6tRCqiATG8ntMk0KTmrifbj1Z5kM2Xa3w8xxE9DdCEFoheBlQ
 
-#EXTINF:-1 tvg-id="TaiwanPlusTV.tw@SD" tvg-name="TaiwanPlus" tvg-logo="https://www.taiwanplus.com/imgs/header/logo-light.svg" tvg-region="亞洲" tvg-country="TW" tvg-language="en" group-title="台湾新闻",TaiwanPlus（官方・1080p）
+#EXTINF:-1 tvg-id="TaiwanPlusTV.tw@SD" tvg-name="TaiwanPlus" tvg-logo="https://www.taiwanplus.com/imgs/header/logo-light.svg" tvg-region="亞洲" tvg-country="TW" tvg-language="en" group-title="台湾",TaiwanPlus（官方・1080p）
 https://fastly.live.brightcove.com/6385235869112/ap-northeast-1/6282251407001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiaWU4OWZvLmVncmVzcy5pdjNqZDgiLCJhY2NvdW50X2lkIjoiNjI4MjI1MTQwNzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MjgyMjUxNDA3MDAxIl0sImp0aSI6IjYzODUyMzU4NjkxMTIifQ.4c-V1Ks3nBx9nRljtn5-jCNP_nLuWBbk-pw9BFWZfMQ/playlist-hls.m3u8
 
-#EXTINF:-1 tvg-id="TaiwanPlusTV.tw@SD" tvg-name="TaiwanPlus" tvg-logo="https://www.taiwanplus.com/imgs/header/logo-light.svg" tvg-region="亞洲" tvg-country="TW" tvg-language="en" group-title="台湾新闻",TaiwanPlus（第三方後備・1080p・HTTP）
+#EXTINF:-1 tvg-id="TaiwanPlusTV.tw@SD" tvg-name="TaiwanPlus" tvg-logo="https://www.taiwanplus.com/imgs/header/logo-light.svg" tvg-region="亞洲" tvg-country="TW" tvg-language="en" group-title="台湾",TaiwanPlus（第三方後備・1080p・HTTP）
 http://125.227.210.55:3083/VideoInput/play.ts
 
 # ========== 台湾综合 ==========
-#EXTINF:-1 tvg-id="TVBSAsia.tw@SD" tvg-name="TVBS-Asia" tvg-logo="https://i.imgur.com/4S1rkhm.png" tvg-region="亞洲" tvg-country="TW" tvg-language="zh" group-title="台湾综合",TVBS Asia（第三方・1080p・HTTP）
+#EXTINF:-1 tvg-id="TVBSAsia.tw@SD" tvg-name="TVBS-Asia" tvg-logo="https://i.imgur.com/4S1rkhm.png" tvg-region="亞洲" tvg-country="TW" tvg-language="zh" group-title="台湾",TVBS Asia（第三方・1080p・HTTP）
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 
-#EXTINF:-1 tvg-id="FTV.tw@SD" tvg-name="FTV" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV.png" tvg-region="亞洲" tvg-country="TW" tvg-language="zh" group-title="台湾综合",民視（第三方・1080p・HEVC・HTTP）
+#EXTINF:-1 tvg-id="FTV.tw@SD" tvg-name="FTV" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV.png" tvg-region="亞洲" tvg-country="TW" tvg-language="zh" group-title="台湾",民視（第三方・1080p・HEVC・HTTP）
 http://74.91.26.218:82/live/ftv.m3u8
 
-#EXTINF:-1 tvg-id="DaliTV.tw" tvg-name="大立電視台" tvg-logo="https://i.imgur.com/pFIMLsA.png" tvg-region="亞洲" tvg-country="TW" tvg-language="zh" group-title="台湾综合",大立電視台（720p・HTTP）
+#EXTINF:-1 tvg-id="DaliTV.tw" tvg-name="大立電視台" tvg-logo="https://i.imgur.com/pFIMLsA.png" tvg-region="亞洲" tvg-country="TW" tvg-language="zh" group-title="台湾",大立電視台（720p・HTTP）
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 
-#EXTINF:-1 tvg-id="TaiwanIndigenousTV.tw" tvg-name="原住民族電視台 TITV" tvg-logo="https://i.imgur.com/QqIdVqz.png" tvg-region="亞洲" tvg-country="TW" tvg-language="zh" group-title="台湾综合",原住民族電視台 TITV（720p）
+#EXTINF:-1 tvg-id="TaiwanIndigenousTV.tw" tvg-name="原住民族電視台 TITV" tvg-logo="https://i.imgur.com/QqIdVqz.png" tvg-region="亞洲" tvg-country="TW" tvg-language="zh" group-title="台湾",原住民族電視台 TITV（720p）
 https://streamipcfapp.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 
-#EXTINF:-1 tvg-id="CGNTVChinese.tw@SD" tvg-name="CGNTV 中文台" tvg-logo="https://i.imgur.com/bPoPAbR.png" tvg-region="亞洲" tvg-country="TW" tvg-language="zh" group-title="台湾综合",CGNTV 中文台（1080p）
+#EXTINF:-1 tvg-id="CGNTVChinese.tw@SD" tvg-name="CGNTV 中文台" tvg-logo="https://i.imgur.com/bPoPAbR.png" tvg-region="亞洲" tvg-country="TW" tvg-language="zh" group-title="台湾",CGNTV 中文台（1080p）
 https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8
 
 # ========== 北美 ==========
