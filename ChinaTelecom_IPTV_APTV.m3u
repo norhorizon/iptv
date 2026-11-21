@@ -59,7 +59,7 @@ http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229455/131699
 http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229470/136083195.smil
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://cdn.jsdelivr.net/gh/norhorizon/iptv@main/tv_logo/SDWS4K.png" group-title="4K超高清" catchup="default" catchup-source="http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221227978/10000100000000060000000000794036_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",山东卫视4K
 http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229467/136083251.smil
-#EXTINF:-1 tvg-id=“天津卫视" tvg-name=“天津卫视" tvg-logo="https://myepg.org/Logo/天津卫视.png" group-title="4K超高清" catchup="default" catchup-source="http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221228016/10000100000000060000000000794035_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}”,天津卫视4K
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://myepg.org/Logo/天津卫视.png" group-title="4K超高清" catchup="default" catchup-source="http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221228016/10000100000000060000000000794035_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",天津卫视4K
 http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229177/49384090.smil
 #EXTINF:-1 tvg-id="多彩文体" tvg-name="多彩文体" tvg-logo="https://cdn.jsdelivr.net/gh/norhorizon/iptv@main/tv_logo/DCWT4K.png" group-title="4K超高清" catchup="default" catchup-source="http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229240/72486906.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",多彩文体4K
 http://192.168.3.20:5140/rtp/233.50.200.52:5140?fcc=115.233.40.137:8027
