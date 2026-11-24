@@ -231,6 +231,8 @@ http://192.168.3.20:5140/rtp/233.50.200.177:5140?fcc=115.233.40.137:8027
 http://192.168.3.20:5140/rtp/233.50.200.125:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="环球奇观" tvg-name="环球奇观" tvg-logo="https://myepg.org/Logo/环球奇观.png" group-title="其他" catchup="default" catchup-source="http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229483/152252603.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",环球奇观
 http://192.168.3.20:5140/rtp/233.50.201.222:5140?fcc=115.233.40.137:8027
+#EXTINF:-1 tvg-id="足球频道" tvg-name="足球频道" tvg-logo="https://cdn.jsdelivr.net/gh/norhorizon/iptv@main/tv_logo/ZQPD.png" group-title="其他" catchup="default" catchup-source="http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229500/152252632.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",足球频道
+http://192.168.3.20:5140/rtp/233.50.201.221:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="江苏国际" tvg-name="江苏国际" tvg-logo="https://myepg.org/Logo/江苏国际.png" group-title="其他" catchup="default" catchup-source="http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229494/150343750.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",江苏国际
 http://192.168.3.20:5140/rtp/233.50.202.31:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://myepg.org/Logo/CGTN.png" group-title="国际" catchup="default" catchup-source="http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221228108/10000100000000060000000002707382_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CGTN
