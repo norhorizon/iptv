@@ -39,7 +39,7 @@ http://192.168.3.20:5140/rtp/233.50.200.113:5140?fcc=115.233.40.137:8027
 http://192.168.3.20:5140/rtp/233.50.202.35:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://myepg.org/Logo/凤凰资讯.png" group-title="凤凰台" catchup="default" catchup-source="http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229423/110077527.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",凤凰资讯
 http://192.168.3.20:5140/rtp/233.50.202.36:5140?fcc=115.233.40.137:8027
-#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://cdn.jsdelivr.net/gh/norhorizon/iptv@main/tv_logo/CCTV4K.png" group-title="4K超高清" catchup="default" catchup-source="http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229486/156724272.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV4K
+#EXTINF:-1 tvg-id="CCTV-4K" tvg-name="CCTV-4K" tvg-logo="https://cdn.jsdelivr.net/gh/norhorizon/iptv@main/tv_logo/CCTV4K.png" group-title="4K超高清" catchup="default" catchup-source="http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229486/156724272.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV-4K
 http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229486/156724272.smil
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://cdn.jsdelivr.net/gh/norhorizon/iptv@main/tv_logo/CCTV16UHD.png" group-title="4K超高清" catchup="default" catchup-source="http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229331/74036079.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",CCTV16奥林匹克4K
 http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229331/74036079.smil
@@ -61,8 +61,10 @@ http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229455/131699
 http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229470/136083195.smil
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://cdn.jsdelivr.net/gh/norhorizon/iptv@main/tv_logo/SDWS4K.png" group-title="4K超高清" catchup="default" catchup-source="http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221227978/10000100000000060000000000794036_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",山东卫视4K
 http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229467/136083251.smil
-#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://myepg.org/Logo/天津卫视.png" group-title="4K超高清" catchup="default" catchup-source="http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221228016/10000100000000060000000000794035_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",天津卫视4K
-http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229177/49384090.smil
+# #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://myepg.org/Logo/天津卫视.png" group-title="4K超高清" catchup="default" catchup-source="http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221228016/10000100000000060000000000794035_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",天津卫视4K
+# http://192.168.3.20:5140/rtsp/115.233.41.137/PLTV/88888913/224/3221229177/49384090.smil
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://myepg.org/Logo/天津卫视.png" group-title="4K超高清",天津卫视4K
+http://192.168.3.20:5140/rtp/233.50.202.124:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://myepg.org/Logo/辽宁卫视.png" group-title="4K超高清",辽宁卫视4K
 http://192.168.3.20:5140/rtp/233.50.202.121:5140?fcc=115.233.40.137:8027
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://myepg.org/Logo/贵州卫视.png" group-title="4K超高清",贵州卫视4K
